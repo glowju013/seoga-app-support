@@ -62,7 +62,7 @@ Supabase 프로젝트 데이터 처리 지역: `Northeast Asia(Seoul)`
 
 외부 서비스의 개인정보 처리에 대해서는 각 서비스의 정책이 적용될 수 있습니다.
 
-- Apple: https://www.apple.com/legal/privacy/
+- Apple: https://www.apple.com/legal/privacy
 - Supabase: https://supabase.com/privacy
 - Kakao: https://privacy.kakao.com/
 - Google: https://policies.google.com/privacy
