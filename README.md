@@ -38,4 +38,4 @@
 
 서가는 Apple 로그인을 통해 계정을 생성하며, 독서 기록을 저장합니다.
 
-개인정보 처리방침: https://github.com/glowju013/seoga-app-support/blob/main/privacy.md
+[개인정보 처리방침](https://glowju013.github.io/seoga-app-support/privacy)
